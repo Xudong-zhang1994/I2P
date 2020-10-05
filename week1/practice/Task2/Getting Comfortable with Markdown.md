@@ -25,7 +25,7 @@ Notice that writing comes *last*.
 ---
 Layout: Split
 ### Git
-![](./img/Git.png)
+![](./image/Git.png)
 +++
 Version control allows us to:
 
