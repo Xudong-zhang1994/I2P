@@ -216,7 +216,7 @@ JupyterLab is basically a web application and, as such, has all kinds of feature
 
 ![inline fit](./image/Markdown-Formatted.png)
 
-![inline fit](./image/lab/Markdown-Raw.png)
+![inline fit](./image/Markdown-Raw.png)
 
 ---
 
