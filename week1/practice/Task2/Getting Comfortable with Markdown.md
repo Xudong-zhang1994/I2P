@@ -196,7 +196,7 @@ Modern Browser + Jupyter == Tangled, Woven code in (m)any languages
 
 ### JupyterLab + Python
 
-![fit](./image/lab/Lab-Notebook-3.png)
+![fit](./image/Lab-Notebook-3.png)
 
 ---
 Layout: HeaderAndColumns
