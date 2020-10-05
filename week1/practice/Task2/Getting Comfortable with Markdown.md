@@ -205,16 +205,16 @@ Layout: HeaderAndColumns
 JupyterLab is basically a web application and, as such, has all kinds of features:
 
 +++
-![inline fit](./image/lab/Lab-Interface.png)
+![inline fit](./image/Lab-Interface.png)
 +++
-![inline fit](./image/lab/Lab-Extensions.png)
+![inline fit](./image/Lab-Extensions.png)
 +++
-![inline fit](./image/lab/Notebook-Structure.png)
+![inline fit](./image/Notebook-Structure.png)
 
 ---
 ### JupyterLab Uses Markdown
 
-![inline fit](./image/lab/Markdown-Formatted.png)
+![inline fit](./image/Markdown-Formatted.png)
 
 ![inline fit](./image/lab/Markdown-Raw.png)
 
@@ -222,7 +222,7 @@ JupyterLab is basically a web application and, as such, has all kinds of feature
 
 ### Tie These Together...
 
-![inline fit](./image/lab/Lab-Notebook-5.png)
+![inline fit](./image/Lab-Notebook-5.png)
 
 ---
 
