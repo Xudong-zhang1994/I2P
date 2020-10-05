@@ -6,6 +6,6 @@ This project is for practice. It usually includes my notes and practicals for th
 3. Stay calm!
 4. Be confident!
 ## Notes:
-1.When we want to define a file that could use **markdown**, we need to add  **.md** after the name we creat to the file.
+1. When we want to define a file that could use **markdown**, we need to add  **.md** after the name we creat to the file.
 ## Also, you could add any question here to remind you:
 1. "Work out how to compare the original and edited versions of README.md in your browser." *How to do that?* 
