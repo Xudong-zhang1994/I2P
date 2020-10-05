@@ -6,5 +6,4 @@ This project is for practice. It usually includes my notes and practicals for th
 3. Stay calm!
 4. Be confident!
 ## Also, you could add any question here to remind you:
-1. "Work out how to compare the original and edited versions of README.md in your browser." 
-### How to do that?
+1. "Work out how to compare the original and edited versions of README.md in your browser." *How to do that?*
