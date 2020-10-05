@@ -40,7 +40,7 @@ Version control allows us to:
 ---
 Layout: Split
 ### GitHub
-![](./img/Octocat.png)
+![](./image/Octocat.png)
 +++
 Git is distributed, meaning that every computer is a potential server *and* a potential authority. **Result**: commits on a plane!
 
@@ -51,7 +51,7 @@ GitHub is 'just' a very large Git server with a *lot* of nice web-friendly featu
 ---
 ### Git+GitHub is for... anything!
 
-![](./img/i2p.png)
+![](./image/i2p.png)
 
 ^ This whole course (minus videos and assessments) is on GitHub.
 
@@ -63,7 +63,7 @@ There is a lot more to documenting your code than just adding comments.
 
 ---
 Layout: Split
-![left 50% filtered](./img/Markdown.png)
+![left 50% filtered](./image/Markdown.png)
 +++
 Markdown is intended to:
 
@@ -186,7 +186,7 @@ Why do we want this?
 
 ### Jupyter(Lab) & Notebooks
 
-![inline 100%](./img/Jupyter_and_Lab.png)
+![inline 100%](./image/Jupyter_and_Lab.png)
 
 Modern Browser + Jupyter == Tangled, Woven code in (m)any languages
 
@@ -196,7 +196,7 @@ Modern Browser + Jupyter == Tangled, Woven code in (m)any languages
 
 ### JupyterLab + Python
 
-![fit](./img/lab/Lab-Notebook-3.png)
+![fit](./image/lab/Lab-Notebook-3.png)
 
 ---
 Layout: HeaderAndColumns
@@ -205,24 +205,24 @@ Layout: HeaderAndColumns
 JupyterLab is basically a web application and, as such, has all kinds of features:
 
 +++
-![inline fit](./img/lab/Lab-Interface.png)
+![inline fit](./image/lab/Lab-Interface.png)
 +++
-![inline fit](./img/lab/Lab-Extensions.png)
+![inline fit](./image/lab/Lab-Extensions.png)
 +++
-![inline fit](./img/lab/Notebook-Structure.png)
+![inline fit](./image/lab/Notebook-Structure.png)
 
 ---
 ### JupyterLab Uses Markdown
 
-![inline fit](./img/lab/Markdown-Formatted.png)
+![inline fit](./image/lab/Markdown-Formatted.png)
 
-![inline fit](./img/lab/Markdown-Raw.png)
+![inline fit](./image/lab/Markdown-Raw.png)
 
 ---
 
 ### Tie These Together...
 
-![inline fit](./img/lab/Lab-Notebook-5.png)
+![inline fit](./image/lab/Lab-Notebook-5.png)
 
 ---
 
