@@ -119,7 +119,7 @@ See [GitHub](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Cod
   <tr>
     <th>Format</th><th>Output</th>
   </tr><tr>
-  	<td>![Alt Text](https://github.com/jreades/i2p/-raw/master/img/casa_logo.jpg)</td><td><img src="https://github.com/jreades/i2p/raw/master/img/casa_logo.jpg" width="150" /></td>
+  	<td>![Alt Text](https://raw.githubusercontent.com/Xudong-zhang1994/I2P/master/week1/practice/Task2/image/casa_logo.jpg)</td><td><img src="https://raw.githubusercontent.com/Xudong-zhang1994/I2P/master/week1/practice/Task2/image/casa_logo.jpg" width="150" /></td>
   </tr><tr>
   	<td>`A code snippet`</td><td><tt>A code snippet</tt></td>
   </tr><tr>
