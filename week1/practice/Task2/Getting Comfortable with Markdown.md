@@ -28,7 +28,7 @@ Notice that writing comes *last*.
 ---
 Layout: Split
 ### Git
-<img src="/image/Git.png" width = "200" height = "300" alt="" align=center />
+<img src="I2P/week1/practice/Task2/image/Git.png" width = "200" height = "300" alt="" align=center />
 Version control allows us to:
 
 1. Track changes to files with a high level of detail using `commit`.
