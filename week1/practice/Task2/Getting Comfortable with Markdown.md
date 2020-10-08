@@ -96,6 +96,7 @@ Together features that make it easy to use have *real* advantages for *you*:
 4. In R (Python is slightly tricker here) you can combine Markdown text with R code using something called `knitr` to 'compile' an article or essay; your code, your output, and your analysis are *always* in one place.
 
 ---
+
 ### Markdown Examples
 
 See [GitHub](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md#markdown-examples):
@@ -124,7 +125,9 @@ See [GitHub](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Cod
   	<td>[A link](http://casa.ucl.ac.uk)</td><td><a href="http://casa.ucl.ac.uk">A link</a></td>
   </tr>
 </table>
+
 ---
+
 <table style="border: solid 1px rgb(230,230,230)">
   <tr>
     <th>Format</th><th>Output</th>
@@ -141,6 +144,7 @@ See [GitHub](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Cod
   	</td>
   </tr>
 </table>
+
 ---
 
 ### More Markdown...
