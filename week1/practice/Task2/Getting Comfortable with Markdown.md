@@ -3,6 +3,9 @@ Author: Jon Reades
 Theme: casa notes
 Palette: Purple
 Size: Wide
+## Changes in this version：
+1. The ordinary directory of images was changed to my file.
+2. Some emphases were changed.
 ---
 Layout: Title
 # Writing Code
@@ -10,9 +13,9 @@ Layout: Title
 ## Don't Just Start Coding...
 There are three parts to writing code:
 
-1. Managing it
-2. Documenting it
-3. Writing it
+- Managing it
+- Documenting it
+- Writing it
 
 Notice that writing comes *last*.
 
@@ -26,7 +29,6 @@ Notice that writing comes *last*.
 Layout: Split
 ### Git
 ![](./image/Git.png)
-+++
 Version control allows us to:
 
 1. Track changes to files with a high level of detail using `commit`.
@@ -41,6 +43,7 @@ Version control allows us to:
 Layout: Split
 ### GitHub
 ![](./image/Octocat.png)
+
 +++
 Git is distributed, meaning that every computer is a potential server *and* a potential authority. **Result**: commits on a plane!
 
