@@ -6,6 +6,7 @@ Size: Wide
 ## Changes in this version：
 1. The ordinary directory of images was changed to my file.
 2. Some emphases were changed.
+3. Change the size of image to make the whole page looking more convenient.
 ---
 Layout: Title
 # Writing Code
@@ -28,7 +29,7 @@ Notice that writing comes *last*.
 ---
 Layout: Split
 ### Git
-<img src="./image/Git.png" width = "200" height = "200" alt="" align=center />
+<img src="./image/Git.png" width = "300" height = "300" alt="" align=center />
 Version control allows us to:
 
 1. Track changes to files with a high level of detail using `commit`.
@@ -42,7 +43,7 @@ Version control allows us to:
 ---
 Layout: Split
 ### GitHub
-![](./image/Octocat.png)
+<img src="./image/Octocat.png" width = "400" height = "332" alt="" align=center />
 
 +++
 Git is distributed, meaning that every computer is a potential server *and* a potential authority. **Result**: commits on a plane!
@@ -65,8 +66,10 @@ Layout: SectionTitle
 There is a lot more to documenting your code than just adding comments.
 
 ---
-Layout: Split
-![left 50% filtered](./image/Markdown.png)
+Layout:Spilt
+
+<img src="./image/Markdown.png" width = "500" height = "307" alt="" align=center />
+
 +++
 Markdown is intended to:
 
