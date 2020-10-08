@@ -28,7 +28,7 @@ Notice that writing comes *last*.
 ---
 Layout: Split
 ### Git
-![](./image/Git.png)
+<img src="/image/Git.png" width = "200" height = "300" alt="" align=center />
 Version control allows us to:
 
 1. Track changes to files with a high level of detail using `commit`.
@@ -43,6 +43,7 @@ Version control allows us to:
 Layout: Split
 ### GitHub
 ![](./image/Octocat.png)
+<img src="Octocat.png" alt="Octocat" width="200"/>
 
 +++
 Git is distributed, meaning that every computer is a potential server *and* a potential authority. **Result**: commits on a plane!
