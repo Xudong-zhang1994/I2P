@@ -1,13 +1,22 @@
-Title: Writing Code
-Author: Jon Reades
-Theme: casa notes
-Palette: Purple
-Size: Wide
-## Changes in this version：
+### *Changes in this version：*
 1. The ordinary directory of images was changed to my file.
 2. Some emphases were changed.
 3. Change the size of image to make the whole page looking more convenient.
+
 ---
+
+Title: Writing Code
+
+Author: Jon Reades
+
+Theme: casa notes
+
+Palette: Purple
+
+Size: Wide
+
+---
+
 Layout: Title
 # Writing Code
 ---
@@ -30,7 +39,8 @@ Notice that writing comes *last*.
 Layout: Split
 ### Git
 <img src="./image/Git.png" width = "300" height = "300" alt="" align=center />
-Version control allows us to:
+
+**Version control allows us to:**
 
 1. Track changes to files with a high level of detail using `commit`.
 2. `push` these changes out so that they are shared with others.
@@ -46,9 +56,13 @@ Layout: Split
 <img src="./image/Octocat.png" width = "400" height = "332" alt="" align=center />
 
 +++
-Git is distributed, meaning that every computer is a potential server *and* a potential authority. **Result**: commits on a plane!
+Git is distributed, meaning that every computer is a potential server *and* a potential authority.  
+  
+  **Result**: commits on a plane!  
 
-But how do people find and access your code if your 'server' is a home machine that goes to sleep at night? **Result**: GitHub.
+But how do people find and access your code if your 'server' is a home machine that goes to sleep at night?  
+  
+  **Result**: GitHub.
 
 GitHub is 'just' a very large Git server with a *lot* of nice web-friendly features tacked on: create a web site, issue/bug tracking, promote your project... 
 
