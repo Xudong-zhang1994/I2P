@@ -1,19 +1,9 @@
 ### *Changes in this version：*
-1. The ordinary directory of images was changed to my file.
+1. The ordinary directory of images was changed to my file（"Xudong-zhang1994/I2P/week1/practice/Task2/image").
 2. Some emphases were changed.
 3. Change the size of image to make the whole page looking more convenient.
 
----
-
-Title: Writing Code
-
-Author: Jon Reades
-
-Theme: casa notes
-
-Palette: Purple
-
-Size: Wide
+**Title:** Writing Code  **Author:** Jon Reades  **Theme:** casa notes  **Palette:** Purple  **Size:** Wide
 
 ---
 
